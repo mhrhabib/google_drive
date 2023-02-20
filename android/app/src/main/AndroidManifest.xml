@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.google_drive">
+    package="com.drutosoft.google_drive">
    <application
         android:label="google_drive"
         android:name="${applicationName}"
