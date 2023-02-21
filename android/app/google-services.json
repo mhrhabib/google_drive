@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493257095798",
+    "project_id": "drive-c-491d0",
+    "storage_bucket": "drive-c-491d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493257095798:android:9546743c3644b90a9bbd57",
+        "android_client_info": {
+          "package_name": "com.drutosoft.google_drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493257095798-p65r24p2frmhin2aegcgr4emn538a2d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT5J_Jd8wJ_E0BgP59YWEIaOqVS5mLvxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493257095798-p65r24p2frmhin2aegcgr4emn538a2d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
